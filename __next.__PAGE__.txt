@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[24334,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/9e3404317c3edfe0.js"],"MolecularBackground"]
+3:I[63780,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/9e3404317c3edfe0.js"],"Navbar"]
+4:I[98924,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/9e3404317c3edfe0.js"],"HeroSection"]
+5:I[74653,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/9e3404317c3edfe0.js"],"ProductsSection"]
+6:I[79345,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/9e3404317c3edfe0.js"],"ExpertiseSection"]
+7:I[40585,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/9e3404317c3edfe0.js"],"EnquirySection"]
+8:I[76841,["/_next/static/chunks/a624b468970d3cc4.js","/_next/static/chunks/9e3404317c3edfe0.js"],"Footer"]
+9:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+0:{"buildId":"qclWlbIt6sQxrMtuzkaNX","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative min-h-screen snap-y snap-mandatory overflow-y-scroll","children":[["$","$L2",null,{}],["$","div",null,{"className":"relative z-10","children":[["$","$L3",null,{}],["$","section",null,{"id":"home","className":"relative py-15 min-h-screen overflow-hidden scroll-mt-[96px]","children":["$","$L4",null,{}]}],["$","section",null,{"id":"products","className":"relative scroll-mt-[96px]","children":["$","$L5",null,{}]}],["$","section",null,{"id":"expertise","className":"relative bg-secondary/30 scroll-mt-[96px]","children":["$","$L6",null,{}]}],["$","section",null,{"id":"enquiry","className":"relative bg-secondary/50 py-20 scroll-mt-[96px]","children":["$","$L7",null,{}]}],["$","section",null,{"id":"contact","className":"scroll-mt-[96px]","children":["$","$L8",null,{}]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/9e3404317c3edfe0.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"loading":null,"isPartial":false}
+b:null
